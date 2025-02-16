@@ -1,0 +1,17 @@
+2
+15
+inbox
+copyto 0
+inbox
+copyto 1
+copyfrom 0
+sub 1
+copyto 2
+outbox
+copyfrom 2
+add 1
+add 1
+sub 0
+sub 0
+outbox
+jump 1

@@ -1,0 +1,10 @@
+﻿   Qt/MSBuild: 3.3.0.13
+   Qt: 6.7.2
+  input_and_output.cpp
+  robot_system_generation.cpp
+  humanresourcemachine.cpp
+  main.cpp
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.cpp(22,43): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  qrc_humanresourcemachine.cpp
+  moc_humanresourcemachine.cpp
+  human-resource-machine.vcxproj -> C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\x64\Debug\human-resource-machine.exe

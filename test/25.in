@@ -1,0 +1,10 @@
+3
+8
+inbox
+copyto 0
+inbox
+copyto 1
+copyfrom 0
+add 1
+copyto 0
+jump 5

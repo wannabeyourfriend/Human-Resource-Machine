@@ -1,0 +1,632 @@
+﻿   Qt/MSBuild: 3.3.1.1
+   Qt: 6.7.2
+  dialog_pause.cpp
+  lt_init.cpp
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x1ae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x1d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x1b0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x1da 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x1b1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x1db 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x1b2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x1dd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x1b4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x1e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x1b8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x1e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x1b9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x1e6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x1ba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x1f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x1bb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x1f3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x1bc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x1f5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x1be 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x1f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x1c0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x1f7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x1fa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x1c1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x1fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x1c2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x22c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x1c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x22e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x1c7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x230 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x1c8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x231 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x1ca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x99a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x232 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x99c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x233 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x235 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x99d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x236 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9a0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x237 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9a2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x23a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9a3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\dialog_pause.cpp(1,1): warning C4828: 文件包含在偏移 0x23b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9a4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9a6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9a8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9ae 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9af 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9b3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9b4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9b5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9b6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9b7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9b8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9b9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9ba 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9bc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9be 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9bf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9c1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9c5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9c9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9ca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9ce 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9d0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9d2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9d3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9d4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9d5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9d6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9da 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9db 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9dc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9de 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9e3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9e7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9ed 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9f0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9f4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9f5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9f6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9f7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9f8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9f9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9fa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0x9fb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa00 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa01 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa02 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa05 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa43 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa44 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa45 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa46 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa48 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa4b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa4c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa50 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa5e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa5f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa61 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa64 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa65 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa67 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa68 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa69 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa6a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa6e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa6f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa70 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa71 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa72 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa73 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa74 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xa75 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb45 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb47 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb49 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb4a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb4b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb4d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb4f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb50 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb53 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb54 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb58 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb59 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb5b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb5d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb5e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb62 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb63 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb64 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb65 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb67 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb68 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb69 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb6d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb70 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb71 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xb72 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc10 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc11 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc16 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc19 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc1a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc1b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc1c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc1d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc1e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc21 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc2d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc2e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc2f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc30 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc33 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc36 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc37 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc39 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc3b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc3c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc3d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc3f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc40 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc63 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc64 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc65 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc66 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc69 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc6c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc6d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc6f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc71 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc72 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc73 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc74 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xc75 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf05 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf06 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf07 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf09 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf0d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf0e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf12 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf1e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf1f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf21 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf22 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf23 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf26 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf27 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf59 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf5b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf5d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf5f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf60 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf67 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf68 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf6a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\lt_init.cpp(1,1): warning C4828: 文件包含在偏移 0xf6d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0x97 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0x98 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0x99 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0x9b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0x9d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0x9f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0xa2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0xa3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0xa4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0xa6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0x97 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0xa7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0x98 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0x99 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0xa8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0x9b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0xaa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0x9d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0xac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0x9f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0xa2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0xa3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0xa4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0xa6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0xa7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0xa8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0xaa 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\BasicFunctions\input_and_output.h(1,1): warning C4828: 文件包含在偏移 0xac 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0xbc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0xbc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0xbd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0xbd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0xc0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0xc0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0xc3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0xc3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0xe0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0xe0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0xe2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0xe2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0xe3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0xe3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0xe9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0xec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0xe9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0xef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0xec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x13e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x13f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0xef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x140 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x13e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x141 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x13f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x144 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x140 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x147 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x148 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x141 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x14a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x144 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x14b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x147 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x2e5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x148 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x2e6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x14a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x2ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x14b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x2eb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x2ec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x2e5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x2f0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x2e6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x2f1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x2ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x2f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x2eb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x331 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x2ec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x333 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x334 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x2f0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x335 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x2f1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x337 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x2f2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x338 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x331 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x339 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x333 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x33a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x33b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x334 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x33c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x335 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x33f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x340 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x337 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x341 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x343 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x344 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x338 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x345 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x346 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x339 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x347 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x33a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x33b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x349 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x33c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x34a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x33f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x34b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x340 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x341 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x34c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x343 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x34f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x344 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x345 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x353 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x346 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x355 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x347 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x349 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x356 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x34a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x34b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x357 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x34c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x358 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“lt_init.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x34f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x353 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x355 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x356 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x357 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\progress.h(1,1): warning C4828: 文件包含在偏移 0x358 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“dialog_pause.cpp”)
+  
+  human-resource-machine.vcxproj -> C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\x64\Debug\human-resource-machine.exe

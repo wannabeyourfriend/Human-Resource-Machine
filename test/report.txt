@@ -1,0 +1,90 @@
+On test 0
+Fail with execution times 5
+Error on instruction 5
+On test 1
+Success
+Success
+On test 2
+Fail with execution times 11
+Fail with execution times 10
+On test 3
+Success
+Success
+On test 4
+Fail with execution times 11
+Error on instruction 11
+On test 5
+Error on instruction 3
+Error on instruction 3
+On test 6
+Success
+Success
+On test 7
+Fail with execution times 5
+Error on instruction 6
+On test 8
+Fail with execution times 6
+Error on instruction 7
+On test 9
+Fail with execution times 6
+Error on instruction 6
+On test 10
+Fail with execution times 6
+Error on instruction 6
+On test 11
+Fail with execution times 6
+Error on instruction 6
+On test 12
+Fail with execution times 6
+Error on instruction 6
+On test 13
+Fail with execution times 4
+Error on instruction 5
+On test 14
+Fail with execution times 4
+Error on instruction 4
+On test 15
+Fail with execution times 5
+Error on instruction 5
+On test 16
+Fail with execution times 5
+Error on instruction 5
+On test 17
+Error on instruction 11
+Error on instruction 11
+On test 18
+Success
+Success
+On test 19
+Fail with execution times 18
+Fail with execution times 17
+On test 20
+Fail with execution times 27
+Fail with execution times 26
+On test 21
+Error on instruction 1
+Error on instruction 1
+On test 22
+Fail with execution times 6
+Error on instruction 8
+On test 23
+Fail with execution times 6
+Error on instruction 8
+On test 24
+Fail with execution times 6
+Error on instruction 9
+On test 25
+Fail with execution times 100002
+Fail with execution times 100001
+On test 26
+Success
+Success
+On test 27
+Fail with execution times 29
+Fail
+On test 28
+Fail with execution times 4
+Fail
+On test 29
+Fail with execution times 6
+Fail

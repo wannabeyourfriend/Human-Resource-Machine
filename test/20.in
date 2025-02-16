@@ -1,0 +1,11 @@
+3
+9
+jump 4
+fuck you
+outbox
+inbox
+copyto 0
+inbox
+sub 0
+jumpifzero 1
+jump 4

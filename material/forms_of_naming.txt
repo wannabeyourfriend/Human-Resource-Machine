@@ -1,0 +1,11 @@
+Files: "file_example.cpp"
+Classes or structures: "MyClass"
+Variables: "a_local_variable", "a_struct_data_member", "a_class_data_member_"
+Constants: "kMAX_SIZE"
+Functions: "MyNewFuction()", "set_count(int count)", "get_count(int count)"
+Defines: "#define PI 3.14"
+
+Be DESCRIPTIVE!
+Use "Ctrl + Alt + L" to format the whole file (if using VS Code).
+Add notes to the codes!
+When defining a class, declare the variables first, and then the functions.

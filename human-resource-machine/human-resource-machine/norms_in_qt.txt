@@ -1,0 +1,8 @@
+QLayout - lt
+QWidget - wdg
+QLayout as a ui - ui
+QDialog - dlg
+QPushButton - btn
+QLabel - lb
+QPropertyAnimation - ani
+QListWidget - lst

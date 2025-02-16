@@ -1,0 +1,20 @@
+4
+18
+inbox
+copyto 0
+jump 6
+copyfrom 3
+outbox
+inbox
+copyto 1
+outbox
+copyto 2
+copyto 3
+copyfrom 1
+sub 0
+jumpifzero 4
+copyto 1
+copyfrom 3
+add 2
+copyto 3
+jump 11

@@ -1,0 +1,430 @@
+﻿   Qt/MSBuild: 3.3.1.1
+   Qt: 6.7.2
+  drag_list_events.cpp
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x365 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x367 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x368 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x369 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x36a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x36b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x36d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x36f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x370 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x371 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x373 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x374 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x375 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x376 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x37b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x37c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x386 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x389 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x38a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x463 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x465 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x46a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x46c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x46d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x46e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x5dd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x5df 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x5e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x5e6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x5ea 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x5eb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x5ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x5ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x5f0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x93a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x93b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x93c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x93f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x940 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x942 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x943 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x944 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x945 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x949 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x94a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x94b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x94c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x94d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x951 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x955 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x956 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x95c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x95d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0xf3b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0xf3c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0xf3d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0xf3e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x112a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x112b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1136 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1137 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x12e8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x12e9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x12ec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x12ee 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x12ef 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x12f1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1345 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1346 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x134a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x134b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x134f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1350 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1353 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1355 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1356 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1357 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1358 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x153f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1540 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1543 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1545 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1546 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1548 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x15d7 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x15d9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x15da 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x15dd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x15df 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x15e0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x15e1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x15e2 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x15e4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1630 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1631 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1635 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1636 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1638 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1639 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x163e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x163f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1640 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1641 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1643 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\drag_list_events.cpp(1,1): warning C4828: 文件包含在偏移 0x1646 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x544 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x545 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x546 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x547 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x54c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x54d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x54e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x54f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x551 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x552 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xa38 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xa39 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xa3a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xa3c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xa40 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xa42 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xa45 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xa6f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xa70 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xa71 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xa73 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xa75 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xa76 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xa78 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xa79 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xb0e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xb10 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xb12 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xb13 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xb3c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xb40 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xb41 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xb44 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xb45 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xb47 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xb49 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xb9e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xb9f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xba0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xba3 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xbc6 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xbc8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xbc9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xbca 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xbcb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xbeb 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xbec 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xbf0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xc19 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xc1d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xc1e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xc21 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xc22 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xc26 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xc2a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xc2b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xc2c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xc2d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xc30 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xc33 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xc36 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xc6e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xc6f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xc72 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xc75 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xc97 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xc98 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xc9b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xc9e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xc9f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xca1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xcb8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xcb9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xcbc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xcbf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xcc0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xcc1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xf8e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xf8f 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xf90 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xf97 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0xf99 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x12c0 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x12c1 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x12c4 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x12c5 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x12c9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x12cc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x12cf 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x12f8 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x12f9 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x12fc 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x12fd 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x1300 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x1301 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x1305 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x133c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x133d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x1340 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x1341 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x134a 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x134d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x1375 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x1378 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x137b 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x137c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\human-resource-machine\humanresourcemachine.h(1,1): warning C4828: 文件包含在偏移 0x1380 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“drag_list_events.cpp”)
+  
+  human-resource-machine.vcxproj -> C:\Users\70740\source\repos\human-resource-machine\human-resource-machine\x64\Debug\human-resource-machine.exe

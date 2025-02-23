@@ -1,4 +1,4 @@
-# Human-resource-machine
+# Human-Resource-Machine
 ## based on Qt6
 ![image](https://github.com/user-attachments/assets/ccc05926-e640-4e90-b852-49c746f21fc3)
 
